@@ -12,7 +12,7 @@ class AuthorsController < ApplicationController
   def show
   end
   
-  before_filter :zero_authors_or_authenticated, only: [:new, :create]
+  #before_filter :zero_authors_or_authenticated, only: [:new, :create]
   before_filter :require_login, except: [:new, :create]
 
   def zero_authors_or_authenticated
