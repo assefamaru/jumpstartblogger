@@ -1,3 +1,2 @@
 == README.md
 
-This is a blog app made following Jumpstartlabs tutorial using Ruby on Rails.
