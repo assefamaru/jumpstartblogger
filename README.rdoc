@@ -1,2 +1,3 @@
 == README.md
 
+Sample Blog app using Blogger Tutorial from JumpstartLab
